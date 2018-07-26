@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.hcl.myhotel.dao.jpa.TaskRepository"/>
+<fullyQualifiedTypeName name="com.hcl.myhotel.domain.Task"/>
+<fullyQualifiedTypeName name="com.hcl.myhotel.dao.jpa.ApplicationUserRepository"/>
+<fullyQualifiedTypeName name="com.hcl.myhotel.domain.ApplicationUser"/>
+</qualifiedTypeNameHistroy>

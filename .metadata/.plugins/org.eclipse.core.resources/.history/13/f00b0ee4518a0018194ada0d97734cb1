@@ -1,0 +1,5 @@
+package com.hcl.myhotel.domain;
+
+public class SendMoneyForm {
+
+}

@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=H\:\\hackathon1\\channel4.1\\domain\\promotion-campaign-domain-service\\.git;H\:\\hackathon1\\channel4.1\\ui\\promotion-campaign-ui-service-V5T\\.git;H\:\\hackathon1\\channel4.1\\business\\promotion-campaign-business-service\\.git;
+GitRepositoriesView.GitDirectories.relative=channel4.1\\domain\\promotion-campaign-domain-service\\.git;channel4.1\\ui\\promotion-campaign-ui-service-V5T\\.git;channel4.1\\business\\promotion-campaign-business-service\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
